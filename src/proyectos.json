@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "APP RESTAURANTE",
+    "descripcion": "Es una app web con tematica de reserva de servicio para un restaurante. Su función principal es que el usuario pueda reservar una fecha y horario para comer.",
+    "tecnologias": "vite, react, node, css, html, etc.",
+    "img": "/Assets/App_restaurant.png"
+  },
+  {
+    "titulo": "Nombre",
+    "descripcion": "descripcion",
+    "tecnologias": "vite, react, node, css, html, etc.",
+    "img": "/Assets/App_restaurant.png"
+  }
+]
